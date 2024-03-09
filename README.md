@@ -14,3 +14,6 @@ Web Developer
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/chakra-ui.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/express-js.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rahul_raj9367?theme=dark&font=Marcellus&ext=heatmap)
