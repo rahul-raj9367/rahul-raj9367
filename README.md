@@ -18,6 +18,11 @@ Web Developer 💻
 
 
 
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
+
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rahul_raj9367?theme=dark&font=Marcellus&ext=heatmap)
 
 [![rahul-raj9367 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahul-raj9367&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
