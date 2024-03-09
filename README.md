@@ -8,8 +8,7 @@ Web Developer
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech 
 - 📫 How to reach me: 
-<br > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-rajj/) [<img align="left" alt="c17hawke | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />]
-[<img align="left" alt="c17hawke | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />]
+<br > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-rajj/) 
 - 😄 Pronouns: Techie
 
 ### I code in
