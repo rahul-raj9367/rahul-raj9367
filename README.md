@@ -15,7 +15,7 @@ Web Developer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/chakra-ui.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/express-js.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
-![Rahul_Raj GitHub stats](https://github-readme-stats.vercel.app/api?rahul_raj9367=anuraghazra&theme=dark&show_icons=true)
+![rahul-raj9367's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul_raj9367&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rahul_raj9367?theme=dark&font=Marcellus&ext=heatmap)
 
