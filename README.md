@@ -19,7 +19,7 @@ Web Developer 💻
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/icon/6RHskkZGRABM/sublime-text"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
 
 
 
